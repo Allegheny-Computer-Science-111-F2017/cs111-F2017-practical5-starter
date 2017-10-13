@@ -66,7 +66,7 @@ assignment's due date.
 A carefully formatted assignment sheet for this project provides more details
 about the steps that a computer scientist should take to complete this
 assignment. You can view this assignment sheet by visiting the listing of
-laboratories on the course web site.
+practicals on the course web site.
 
 ## Learning
 
